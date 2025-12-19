@@ -17,7 +17,7 @@
 <br>
 
 ```python
-class Destroyer(Engineer):
+class Destroyer( ):
     def __init__(self):
         self.name = "Shantanu Pati"
         self.role = "Security & Backend Architect"
