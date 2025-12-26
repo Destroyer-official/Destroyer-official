@@ -22,7 +22,7 @@ class Destroyer( ):
         self.name = "Shantanu Pati"
         self.role = "Security & Backend Architect"
         self.location = "India"
-        self.codebase = ["Python", "Asyncio", "C++", "Rust"]
+        self.codebase = ["Python", "Asyncio", "C++", "Rust","Kotlin" ]
         
     def current_mission(self):
         return {
