@@ -23,6 +23,23 @@ class destroyer():
         }
 ```
 
+### ⚡ CORE ARSENAL & SUBSYSTEMS
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Qt6%20%2F%20PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt" />
+  <img src="https://img.shields.io/badge/Windows_NT_Kernel-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows NT" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Post--Quantum_Crypto-ML--KEM_/_FALCON-00FF00?style=for-the-badge&logo=shield&logoColor=black&labelColor=0d1117" alt="Quantum Crypto" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</div>
+
+<br>
+
 ### 🖥️ ACTIVE PROCESSES (PID: ROOT)
 
 | PID | PROCESS_NAME | PROTOCOL | STATUS | THREADS |
@@ -33,12 +50,23 @@ class destroyer():
 | **3000** | **[Destroyer-DoS](https://github.com/Destroyer-official/Destroyer-DoS)** | `Asyncio` | 🟡 **WAITING** | *High-concurrency Layer 4 Network Simulator* |
 | **80** | **[Destroyer-Browser](https://github.com/Destroyer-official/Destroyer-Browser)** | `PyQt5 Engine` | 🔵 **RUNNING** | *Privacy-First Browser with Custom Ad-Block* |
 
-### 🔧 KERNEL MODULES
+### 🔧 KERNEL MODULES & SECURE UPLINK
 
 ```bash
-user@destroyer:~$ ./contact.sh
-> Initializing connection...
-> Email: shantanupatil5@gmail.com
-> LinkedIn: [Pending...]
+user@destroyer:~$ ./contact.sh --secure
+> Initializing cryptographic handshake...
+> Operator: Shantanu Patil
+> Direct Line: shantanupatil5@gmail.com
+> Key Exchange: Quantum-Resistant P2P
+> Status: Open for High-Impact Systems & Security Collaboration
 > _
 ```
+
+<div align="center">
+  <a href="mailto:shantanupatil5@gmail.com"><img src="https://img.shields.io/badge/Direct_Mail-shantanupatil5%40gmail.com-00FF00?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0d1117" alt="Email" /></a>
+  &nbsp;
+  <a href="https://github.com/Destroyer-official"><img src="https://img.shields.io/badge/GitHub-Destroyer--official-00FF00?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" /></a>
+  &nbsp;
+  <a href="https://github.com/Destroyer-official/Cortex-Workstation"><img src="https://img.shields.io/badge/Flagship-Cortex--Workstation-00FF00?style=for-the-badge&logo=windows11&logoColor=white&labelColor=0d1117" alt="Cortex-Workstation" /></a>
+</div>
+
