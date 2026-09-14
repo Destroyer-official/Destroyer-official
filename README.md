@@ -63,7 +63,7 @@ user@destroyer:~$ ./contact.sh --secure
 ```
 
 <div align="center">
-  <a href="mailto:destroyerofficialsmain@gmail.com"><img src="https://img.shields.io/badge/Direct_Mail-Destroyer--official%40-00FF00?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0d1117" alt="Email" /></a>
+  <a href="mailto:destroyerofficialsmain@gmail.com"><img src="https://img.shields.io/badge/Direct_Mail-Destroyer-00FF00?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0d1117" alt="Email" /></a>
   &nbsp;
   <a href="https://github.com/Destroyer-official"><img src="https://img.shields.io/badge/GitHub-Destroyer--official-00FF00?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" /></a>
   &nbsp;
